@@ -61,7 +61,7 @@ rssi_prev2 = -255
 near_cmd = 'br -n 1'
 far_cmd = 'br -f 1'
 
-dagar_addr = '04:18:0F:46:C6:67'
+dagar_addr = '0A8:7C:01:42:99:A4'
 emily_addr = '43:29:B1:55:00:00'
 
 debug = 1
